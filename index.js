@@ -46,8 +46,6 @@ const sendMail = (mailList, message, subject, template, attachments) => {
             // developermona@outlook.com
             user: "developermona@outlook.com",
             pass: "Monakarthik&143"
-            
-            
         },
         tls: {
             ciphers: "SSLv3"
